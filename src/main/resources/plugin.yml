@@ -1,0 +1,8 @@
+name: EnergyAPI
+version: '1.0.0-a'
+main: me.freezy.plugins.energyAPI.EnergyAPI
+api-version: '1.20'
+load: STARTUP
+authors: [ DaTTV, Freezy ]
+description: EnergyAPI for my plugins!
+website: https://freezy.me
